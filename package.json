@@ -1,0 +1,35 @@
+{
+  "name": "bevalorous-angular-filters",
+  "version": "1.0.0",
+  "description": "Collection of rarely used filters for AngularJS",
+  "main": "./dist/angular-filters.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevalorous/angular-filters.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "filter"
+  ],
+  "author": "Vadim Belorussov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevalorous/angular-filters/issues"
+  },
+  "homepage": "https://github.com/bevalorous/angular-filters#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.7"
+  }
+}
