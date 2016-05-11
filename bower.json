@@ -1,0 +1,24 @@
+{
+  "name": "bevalorous-angular-filters",
+  "homepage": "https://github.com/bevalorous/angular-filters",
+  "authors": [
+    "Vadim Belorussov <belorussov.vadim@gmail.com>"
+  ],
+  "description": "Collection of rarely used filters for AngularJS",
+  "main": "./dist/angular-filters.js",
+  "keywords": [
+    "filter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-mocks": "^1.5.5"
+  }
+}
